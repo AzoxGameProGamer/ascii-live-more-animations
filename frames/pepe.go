@@ -1,8 +1,8 @@
 package frames
 
-var Pepe = pepeFrames(pepeFrames)
+var Pepe = PepeFramesType(PepeFrames)
 
-var pepeFrames = []string{
+var PepeFrames = []string{
   `                                                                                                    
                                                                                                     
                                                            ~~~                                      
