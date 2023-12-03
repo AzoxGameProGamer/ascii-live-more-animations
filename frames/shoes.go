@@ -1,8 +1,8 @@
 package frames
 
-var SHOES   DefaultFrameType(shoesFrame)
+var SHOES = DefaultFrameType(shoesFrame)
 
-var shoesFrame   []string{
+var shoesFrame = []string{
 	`                           -*######~~~~~#######**##~@@~#*+ ++++ --                                  
                             *#####~~~~~~#######*****#~~~~#*    --:                                  
                             *#####~~~~~~#######********#~~#*++ ---                                  
